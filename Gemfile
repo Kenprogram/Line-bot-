@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'line-bot-api'
 gem 'dotenv-rails'
+gem 'foreman'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
